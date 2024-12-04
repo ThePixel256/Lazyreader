@@ -1,0 +1,46 @@
+.header {
+    background-image: url(imagenes/1681.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 150px;
+}
+
+.img-logo {
+    width: 80px;
+}
+
+.nav-link {
+    font-size: 25px;
+}
+
+.descrip {
+    padding: 150px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.main {
+    padding: 50px 15px;
+}
+
+.beneficios {
+    padding: 50px 15px;
+}
+
+.modal-title-colored {
+    color: #183ee8;
+}
+
+@media (min-width: 768px) {
+    .main {
+        padding: 150px;
+    }
+
+    .beneficios {
+        padding: 150px;
+    }
+}
