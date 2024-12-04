@@ -35,6 +35,18 @@
     color: #183ee8;
 }
 
+.whatsapp-float {
+    display: inline-block; 
+    width: 60px; 
+    height: 60px; 
+}
+
+.whatsapp-float img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%; 
+}
+
 @media (min-width: 768px) {
     .main {
         padding: 150px;
